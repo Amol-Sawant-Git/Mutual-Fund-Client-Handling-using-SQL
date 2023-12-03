@@ -1,1 +1,1 @@
-# MySQL
+# Practical demonstration of mutual fund client management using MySQL with our project. This showcases effective database handling and integration for streamlined client data management in the context of mutual funds.
